@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fafae4;
+    margin: 40px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 15px;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+table.udi {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+}
+
+th,
+td {
+    border: 2px solid #656565;
+    font-size: 12px;
+    vertical-align: middle;
+}
+
+td {
+    padding-left: 6px;
+}
+
+.fila-alta {
+    height: 60px;
+}
+
+.fila-media {
+    height: 30px;
+}
+
+.amarillo-claro {
+    background: #ffff8c;
+    font-weight: bold;
+}
+
+.mostaza-claro {
+    background-color: #ffe38d;
+    font-weight: bold;
+}
+
+.azul {
+    background-color: #5bb6cf;
+}
+
+.cabecera-azul {
+    background-color: #5c82cd;
+    text-align: center;
+}
+
+.cabecera-amarilla {
+    background-color: #ffc000;
+}
+
+.interactua {
+    background: #ff33cc;
+    font-weight: 900;
+    text-align: center;
+}
+
+.investiga {
+    background: #b4a7d6;
+    font-weight: 900;
+    text-align: center;
+}
+
+.desarrolla {
+    background: #ff0000;
+    font-weight: 900;
+    text-align: center;
+}
+
+.crea {
+    background: #92d050;
+    font-weight: 900;
+    text-align: center;
+}
+
+.explora {
+    background: #ffff00;
+    font-weight: 900;
+    text-align: center;
+}
+
+.presenta {
+    background: #ed7d31;
+    font-weight: 900;
+    text-align: center;
+}
